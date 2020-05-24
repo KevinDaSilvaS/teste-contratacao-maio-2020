@@ -1,5 +1,8 @@
 # Teste de Contratação W16 - Maio de 2020
 
+<h1>Detalhes da Implementação</h1>
+<h4>Pagina front end desenvolvida em react não apenas para desktop mas também é responsiva em dispositivos mobile</h4>
+
 ## Desenvolvedor
 
 Olá! Muito obrigado por participar da avalição técnica para integrar a equipe de desenvolvimento da W16.
