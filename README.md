@@ -2,6 +2,7 @@
 
 <h1>Detalhes da Implementação</h1>
 <h4>Pagina front end desenvolvida em react não apenas para desktop mas também é responsiva em dispositivos mobile</h4>
+<img src="https://github.com/KevinDaSilvaS/teste-contratacao-maio-2020/blob/master/prints-solucao/print1.png">
 
 ## Desenvolvedor
 
